@@ -7,4 +7,5 @@ python 3.8
 pip install pandas
 pip install openpyxl
 pip install matplotlib
+pip install scipy
 
